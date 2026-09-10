@@ -18,7 +18,7 @@
   <br/>
   <p align="center">
     <a href="https://blog.040304.xyz"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-blog.svg" alt="Blog" /></a>&nbsp;
-    <a href="https://twitter.com/ox_xeron"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-x.svg" alt="X" /></a>&nbsp;
+    <a href="https://twitter.com/xeronsh"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-x.svg" alt="X" /></a>&nbsp;
     <a href="https://t.me/xeronsh"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-telegram.svg" alt="Telegram" /></a>&nbsp;
     <a href="mailto:xeronsh@gmail.com"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-email.svg" alt="Email" /></a>&nbsp;
     <a href="https://github.com/ArchdevilForge"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-org.svg" alt="ArchdevilForge" /></a>
