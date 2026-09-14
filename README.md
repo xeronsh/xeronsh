@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.svg" width="680" alt="xeron@arch:~#" />
+  <img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/header.svg" width="680" alt="xeron@arch:~#" />
 
   <!-- Refined Arch Linux & Pi Dual Icon Spec Board -->
   <br/>
@@ -17,9 +17,9 @@
 
   <br/>
   <p align="center">
-    <a href="https://twitter.com/xeronsh"><img src="assets/badge-x.svg" alt="X" /></a>&nbsp;
-    <a href="https://t.me/xeronsh"><img src="assets/badge-telegram.svg" alt="Telegram" /></a>&nbsp;
-    <a href="mailto:xeronsh@gmail.com"><img src="assets/badge-email.svg" alt="Email" /></a>
+    <a href="https://twitter.com/xeronsh"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-x.svg" alt="X" /></a>&nbsp;
+    <a href="https://t.me/xeronsh"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-telegram.svg" alt="Telegram" /></a>&nbsp;
+    <a href="mailto:xeronsh@gmail.com"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-email.svg" alt="Email" /></a>
   </p>
 
   <br/>
@@ -29,7 +29,7 @@
 
   <br/>
   <p align="center">
-    <a href="https://etherscan.io/address/xeron.eth"><img src="assets/badge-sponsor.svg" alt="Sponsor: xeron.eth" height="38" /></a>
+    <a href="https://etherscan.io/address/xeron.eth"><img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/badge-sponsor.svg" alt="Sponsor: xeron.eth" height="38" /></a>
   </p>
   <br/>
 
