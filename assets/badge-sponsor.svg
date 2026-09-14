@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="38" viewBox="0 0 290 38" role="img" aria-label="Sponsor: xeron.eth">
+  <title>Sponsor: xeron.eth</title>
+  <clipPath id="r"><rect width="290" height="38" rx="6"/></clipPath>
+  <g clip-path="url(#r)" shape-rendering="geometricPrecision">
+    <rect width="125" height="38" fill="#313244"/>
+    <rect x="125" width="165" height="38" fill="#cba6f7"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision">
+    <!-- Ethereum Logo (20x20) -->
+    <g transform="translate(14, 9)">
+      <svg width="20" height="20" viewBox="0 0 24 24"><path fill="#cba6f7" d="M11.944 17.97L4.58 13.62L11.943 24l7.37-10.38l-7.372 4.35zM12.056 0L4.69 12.223l7.365 4.354l7.365-4.35z"/></svg>
+    </g>
+    <text x="42" y="24" font-size="12" font-weight="bold" letter-spacing="1.5" fill="#cdd6f4">SPONSOR</text>
+    <text x="207.5" y="24" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1e1e2e" letter-spacing="0.6">xeron.eth</text>
+  </g>
+</svg>

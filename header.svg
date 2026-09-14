@@ -13,5 +13,5 @@
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
   </style>
   <text x="50%" y="38" text-anchor="middle" class="prompt">xeron@arch:~# <tspan class="cursor">_</tspan></text>
-  <text x="50%" y="74" text-anchor="middle" class="sub">AI Multi-Agent Systems  •  Web3 &amp; Crypto Quant  •  Minimalist Tooling</text>
+  <text x="50%" y="74" text-anchor="middle" class="sub">AI Agent  •  Web3 &amp; Crypto Quant  •  Minimalist Tooling</text>
 </svg>
