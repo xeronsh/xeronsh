@@ -45,41 +45,29 @@
 * **[coinglass-decrypt](https://github.com/xeronsh/coinglass-decrypt)** <img src="https://img.shields.io/github/stars/xeronsh/coinglass-decrypt?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `Reverse Engineering` · `Crypto Derivatives`</sub>  
   Crypto derivatives market data reverse-engineering and payload decryption suite.
-* **[pm-bot](https://github.com/xeronsh/pm-bot)** <img src="https://img.shields.io/github/stars/xeronsh/pm-bot?style=flat-square&color=ffd700" alt="stars" />  
-  <sub>`Python` · `Polymarket API` · `Kelly Criterion` · `Paper Trading`</sub>  
-  Polymarket prediction market strategy trading & backtesting engine with dynamic Expected Value (EV) filtering.
 * **[ArchdevilForge/kairos](https://github.com/ArchdevilForge/kairos)** / **[kairos-bus](https://github.com/xeronsh/kairos-bus)** <img src="https://img.shields.io/github/stars/ArchdevilForge/kairos?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Go` · `Python` · `Event Bus` · `JSONL Pipeline` · `Telegram Bot`</sub>  
   Trading floor real-time event bus: high-throughput JSONL ingestion → severity/dedup/cooldown gating → millisecond Telegram alerts.
 * **[rh-sniper](https://github.com/xeronsh/rh-sniper)** <img src="https://img.shields.io/github/stars/xeronsh/rh-sniper?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `Meme Sniper` · `On-chain Trading`</sub>  
   Robinhood chain meme token sniper and real-time on-chain liquidity monitor.
-* **[ArchdevilForge/pi-web3-hunter](https://github.com/ArchdevilForge/pi-web3-hunter)**  
-  <sub>`Python` · `Pi Coding Agent` · `Slither` · `Foundry` · `Echidna`</sub>  
-  Automated Web3 smart contract security auditing and vulnerability hunter powered by Pi Coding Agent.
 * **[chain-trace](https://github.com/xeronsh/chain-trace)**  
   <sub>`Python` · `EVM / Solana` · `On-chain Forensics`</sub>  
   Zero-key on-chain fund flow tracing and digital forensics toolkit.
-* **[smartalpha](https://github.com/xeronsh/smartalpha)** / **[meme-monitor](https://github.com/xeronsh/meme-monitor)**  
-  <sub>`Python` · `pump.fun` · `Dexscreener API` · `Smart Money`</sub>  
-  pump.fun smart-money liquidity anomaly tracker & Dexscreener multi-chain new pool real-time detector.
+* **[smartalpha](https://github.com/xeronsh/smartalpha)**  
+  <sub>`Python` · `pump.fun` · `Smart Money`</sub>  
+  pump.fun smart-money liquidity anomaly tracker.
 
 ---
 
 ### <img src="https://fastly.jsdelivr.net/gh/xeronsh/xeronsh@main/assets/icon-openai.svg" width="18" height="18" valign="middle" />&nbsp; AI & Agent Infrastructure
 
-* **[openOii](https://github.com/xeronsh/openOii)** <img src="https://img.shields.io/github/stars/xeronsh/openOii?style=flat-square&color=ffd700" alt="stars" />  
-  <sub>`Python` · `LangGraph` · `Multi-Agent System` · `Video Generation`</sub>  
-  Story concepts → Multi-agent orchestration → Final drama production. An end-to-end AI comic & video generation platform built on LangGraph.
-* **[ArchdevilForge/pi-effect-evolve](https://github.com/ArchdevilForge/pi-effect-evolve)**  
-  <sub>`TypeScript` · `Effect.js` · `Pi Plugin` · `Skill Evolution`</sub>  
-  Effect-managed runtime extension and self-evolution harness for Pi Coding Agent.
+* **[KomaSlate](https://github.com/xeronsh/KomaSlate)** <img src="https://img.shields.io/github/stars/xeronsh/KomaSlate?style=flat-square&color=ffd700" alt="stars" />  
+  <sub>`TypeScript` · `Python` · `React` · `FastAPI`</sub>  
+  Local-first, non-destructive AI storyboarding workspace — shot retake, version diff & FCPXML export. (formerly openOii)
 * **[ArchdevilForge/tokenstats](https://github.com/ArchdevilForge/tokenstats)**  
   <sub>`Python` · `CLI Harness` · `Token Analytics`</sub>  
   Real-time token usage and expenditure aggregator across all local Agent CLIs on your machine.
-* **[ArchdevilForge/vision-mcp](https://github.com/ArchdevilForge/vision-mcp)**  
-  <sub>`Rust` · `MCP Protocol` · `Computer Vision`</sub>  
-  High-performance Vision MCP Server built with Rust.
 
 ---
 
