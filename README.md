@@ -45,18 +45,12 @@
 * **[coinglass-decrypt](https://github.com/xeronsh/coinglass-decrypt)** <img src="https://img.shields.io/github/stars/xeronsh/coinglass-decrypt?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `Reverse Engineering` · `Crypto Derivatives`</sub>  
   Crypto derivatives market data reverse-engineering and payload decryption suite.
-* **[ArchdevilForge/kairos](https://github.com/ArchdevilForge/kairos)** / **[kairos-bus](https://github.com/xeronsh/kairos-bus)** <img src="https://img.shields.io/github/stars/ArchdevilForge/kairos?style=flat-square&color=ffd700" alt="stars" />  
+* **[ArchdevilForge/kairos](https://github.com/ArchdevilForge/kairos)** <img src="https://img.shields.io/github/stars/ArchdevilForge/kairos?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Go` · `Python` · `Event Bus` · `JSONL Pipeline` · `Telegram Bot`</sub>  
   Trading floor real-time event bus: high-throughput JSONL ingestion → severity/dedup/cooldown gating → millisecond Telegram alerts.
-* **[rh-sniper](https://github.com/xeronsh/rh-sniper)** <img src="https://img.shields.io/github/stars/xeronsh/rh-sniper?style=flat-square&color=ffd700" alt="stars" />  
-  <sub>`Python` · `Meme Sniper` · `On-chain Trading`</sub>  
-  Robinhood chain meme token sniper and real-time on-chain liquidity monitor.
 * **[chain-trace](https://github.com/xeronsh/chain-trace)**  
   <sub>`Python` · `EVM / Solana` · `On-chain Forensics`</sub>  
   Zero-key on-chain fund flow tracing and digital forensics toolkit.
-* **[smartalpha](https://github.com/xeronsh/smartalpha)**  
-  <sub>`Python` · `pump.fun` · `Smart Money`</sub>  
-  pump.fun smart-money liquidity anomaly tracker.
 
 ---
 
