@@ -41,13 +41,13 @@
 
 * **[ArchdevilForge/retraq](https://github.com/ArchdevilForge/retraq)** <img src="https://img.shields.io/github/stars/ArchdevilForge/retraq?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`React` · `FastAPI` · `OKX API` · `Data Visualization`</sub>  
-  Crypto trading journal & review system — visual historical trade analytics, multi-timeframe candle comparison, entry/exit plotting, and win-rate statistics.
+  Crypto trading journal & review system — visual historical trade analytics, multi-timeframe candle comparison, entry/exit plotting, and win-rate statistics. *(Archived — migrated to [Kairos](https://github.com/ArchdevilForge/kairos))*
 * **[coinglass-decrypt](https://github.com/xeronsh/coinglass-decrypt)** <img src="https://img.shields.io/github/stars/xeronsh/coinglass-decrypt?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `Reverse Engineering` · `Crypto Derivatives`</sub>  
   Crypto derivatives market data reverse-engineering and payload decryption suite.
 * **[ArchdevilForge/kairos](https://github.com/ArchdevilForge/kairos)** <img src="https://img.shields.io/github/stars/ArchdevilForge/kairos?style=flat-square&color=ffd700" alt="stars" />  
-  <sub>`Go` · `Python` · `Event Bus` · `JSONL Pipeline` · `Telegram Bot`</sub>  
-  Trading floor real-time event bus: high-throughput JSONL ingestion → severity/dedup/cooldown gating → millisecond Telegram alerts.
+  <sub>`Go` · `TypeScript` · `React` · `Electron`</sub>  
+  All-in-one desktop charting terminal for short-term crypto perpetuals — dual charts & SMC, zero-lookahead replay, and trade reconciliation.
 * **[chain-trace](https://github.com/xeronsh/chain-trace)**  
   <sub>`Python` · `EVM / Solana` · `On-chain Forensics`</sub>  
   Zero-key on-chain fund flow tracing and digital forensics toolkit.
@@ -58,7 +58,7 @@
 
 * **[KomaSlate](https://github.com/xeronsh/KomaSlate)** <img src="https://img.shields.io/github/stars/xeronsh/KomaSlate?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`TypeScript` · `Python` · `React` · `FastAPI`</sub>  
-  Local-first, non-destructive AI storyboarding workspace — shot retake, version diff & FCPXML export. (formerly openOii)
+  Local-first, non-destructive AI storyboarding & node-graph workspace — shot retake, MCP/CLI, and FCPXML export. *(Archived)*
 * **[ArchdevilForge/tokenstats](https://github.com/ArchdevilForge/tokenstats)**  
   <sub>`Python` · `CLI Harness` · `Token Analytics`</sub>  
   Real-time token usage and expenditure aggregator across all local Agent CLIs on your machine.
@@ -69,13 +69,13 @@
 
 * **[fx-gateway-proxy](https://github.com/xeronsh/fx-gateway-proxy)** <img src="https://img.shields.io/github/stars/xeronsh/fx-gateway-proxy?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Python` · `FastAPI` · `Reverse Proxy` · `Protocol Engineering`</sub>  
-  High-performance traffic gateway proxy and protocol translation component.
+  OpenAI-compatible reverse proxy for Vercel AI Gateway free pools — adaptive multi-key routing and cooldown rotation. *(Archived)*
 * **[ArchdevilForge/mm](https://github.com/ArchdevilForge/mm)** <img src="https://img.shields.io/github/stars/ArchdevilForge/mm?style=flat-square&color=ffd700" alt="stars" />  
   <sub>`Rust` · `Mihomo` · `TUN / Profiles` · `KISS CLI`</sub>  
   KISS CLI for mihomo — lightweight proxy profiles, subscriptions, TUN, and node manager written in Rust.
 * **[XeronOS](https://github.com/xeronsh/XeronOS)** <img src="https://img.shields.io/github/stars/xeronsh/XeronOS?style=flat-square&color=ffd700" alt="stars" />  
-  <sub>`Vanilla JS` · `CSS Terminal` · `Zero Build` · `Zero Framework`</sub>  
-  Terminal-style personal homepage — single-file vanilla HTML/CSS/JS, zero framework, zero build.
+  <sub>`Vanilla HTML/CSS/JS` · `Pixel Editorial` · `Zero Build` · `Zero Framework`</sub>  
+  Single-file personal homepage in a dark pixel-editorial style — zero framework, zero build, zero dependencies.
 
 ---
 
